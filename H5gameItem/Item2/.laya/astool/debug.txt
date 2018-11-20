@@ -1,0 +1,19 @@
+1,0.00,,0,Project command:d:\layaAir\Item\Item2/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:d:\layaAir\Item\Item2/.actionScriptProperties.
+1,0.00,,0,output path:d:/layaAir/Item/Item2/bin/h5/
+1,0.00,,0,Main Class:d:/layaAir/Item/Item2/src/LayaSample.as
+1,0.00,,0,output file:LayaSample
+1,0.00,,0,compilerSourcePath d:/layaAir/Item/Item2/libs/laya/src/
+
+1,0.00,,0,Compile Path:d:/layaAir/Item/Item2/src/
+
+1,0.00,,0,Compile Path:d:/layaAir/Item/Item2/libs/laya/src/
+
+1,0.00,d:/layaAir/Item/Item2/src,0,Collect
+1,0.00,d:/layaAir/Item/Item2/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.67,,0,Disable Flash3D d:/layaAir/Item/Item2/src/LayaSample.as
+12,89.67,d:/layaAir/Item/Item2/bin/h5/LayaSample.max.js,2673227,
+11,89.67,d:/layaAir/Item/Item2/bin/h5/LayaSample.max.html,893,
+******************************************************************************
+14,89.67,,0,
