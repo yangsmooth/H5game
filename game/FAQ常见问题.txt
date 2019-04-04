@@ -1,0 +1,5 @@
+1、解决打开index.html报错问题？资源加载ftp协议错误
+    在谷歌浏览器快捷方式里最后面加上以下两种方式代码，-----最前面打上空格-----
+     --disable-web-security --user-data-dir=E:\mychromeDevUserData, --user-data-dir
+    参数--disable-web-security 必须和参数--user-data-dir配合使用，只有disable那个参数并不好使，这个路径问题，这个路径E:\mychromeDevUserData是随便创建的一个文件夹。
+    目前只支持谷歌浏览器的资源加载

@@ -1,1 +1,0 @@
-一个纯bootstrap和fontAwesome做的个人中心页面包含音乐播放和歌词轮播
