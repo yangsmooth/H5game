@@ -6,7 +6,7 @@
 ```
 前往node.js官网下载node.js,并安装,安装完成后再终端打出npm -v,查看安装是否成功
 ```
-地址： [地址链接](https://nodejs.org/zh-cn/).
+地址：[地址链接](https://nodejs.org/zh-cn/).
 ```
 
 ### 安装本地服务http-server
